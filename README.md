@@ -3,7 +3,7 @@
 ## My Flutter Projects
 ![flutter_projects_1](https://github.com/anandanmukh/anandanmukh/assets/67072228/64c35424-206d-445c-b7a4-01f273c3ae8a)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anandanmukh&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **anandanmukh/anandanmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
